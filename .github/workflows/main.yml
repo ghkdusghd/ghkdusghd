@@ -16,3 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 플래그 자리
+          LOCALE: "ko" #한국
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
