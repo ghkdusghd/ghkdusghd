@@ -15,4 +15,5 @@ jobs:
         uses: matchai/waka-box@v1  # `@master` 대신 `@v1` 사용
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: da9960cb4b08baa9d992a3202d68f8d7
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
