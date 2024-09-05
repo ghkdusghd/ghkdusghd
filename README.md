@@ -4,7 +4,7 @@
 # ghkdusghd 🚀
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-133-blue)
 
@@ -13,6 +13,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 27.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 274 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,7 +84,7 @@ JavaScript               2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ghkdusghd/ghkdusghd/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2024 18:38:34 UTC
+ Last Updated on 05/09/2024 02:01:04 UTC
 <!--END_SECTION:waka-->
 
 
