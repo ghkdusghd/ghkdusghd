@@ -9,9 +9,9 @@
        style="width: 30%; max-width: 400px;">
 </div>
 
-</div>
 
-# Web Backend Developer 🤓
+# Web Backend Developer 🙌🏻
+</div>
 
 ### EXPERIENCE
 
