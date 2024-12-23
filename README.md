@@ -4,8 +4,8 @@
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/e23f7472-0ad7-4925-ae0f-f30841b76d6a" 
-       alt="KakaoTalk_Photo_2024-12-19-17-22-40" 
+  <img src="https://github.com/ghkdusghd/ghkdusghd.github.io/blob/main/assets/images/profile/readme_profile.png" 
+       alt="" 
        style="width: 30%; max-width: 400px;">
 </div>
 
@@ -26,8 +26,8 @@
 ### PROJECTS
 
 ##### 🚀 네이버 클라우드 플랫폼 자격증 시험 CBT 모의고사 사이트
-##### [🍀 NCBT 서비스 바로가기](https://ncbt-front.vercel.app/)
-##### [🛢️ Github 바로가기](https://github.com/Kimsu10/NCP-CBT.git)
+##### 🍀 NCBT 서비스 바로가기 : https://ncbt-front.vercel.app/
+##### 🛢️ Github : https://github.com/Kimsu10/NCP-CBT.git
 
 ``` markdown
 - Spring Security를 활용한 역할 기반 접근 제어(RBAC) 구현
@@ -41,5 +41,5 @@
 
 ### CONTACT
 
-##### 💌 yeonguo95@gmail.com
-##### [🤓개발덕 블로그](https://ghkdusghd.github.io/)
+##### 💌 이메일 : yeonguo95@gmail.com
+##### 🤓 블로그 : https://ghkdusghd.github.io/
