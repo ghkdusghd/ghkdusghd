@@ -15,7 +15,7 @@
 
 ### EXPERIENCE
 
-##### 🍀 2024.12 -  [NCBT 서비스 운영중](https://ncbt-front.vercel.app/)
+##### 🍀 2024.12 -  NCBT 서비스 운영중
 
 ##### 👩🏻‍💻 2024.02 - 2024.08 네이버클라우드 기반 웹 데브옵스 개발자 과정 수료
 
@@ -26,7 +26,7 @@
 ### PROJECTS
 
 ##### 🚀 네이버 클라우드 플랫폼 자격증 시험 CBT 모의고사 사이트
-##### 🍀 NCBT 서비스 바로가기 : https://ncbt-front.vercel.app/
+##### 🍀 NCBT 서비스 바로가기 : https://www.ncbt.site
 ##### 🛢️ Github : https://github.com/Kimsu10/NCP-CBT.git
 
 ``` markdown
