@@ -32,14 +32,13 @@
 
 ##### 담당 역할
 ``` markdown
-- Spring Security 와 JWT 를 결합한 스테이트리스 인증 시스템 구현
+- Spring Security 와 JWT 를 결합한 인증 시스템 구현
 - Spring Security 를 활용한 역할 기반 접근 제어 (RBAC) 구현
-- OAuth2.0 을 활용한 네이버, 깃허브 소셜로그인 구현
-- RESTful API 구현 : 사용자 API, 관리자 API, 모의고사 API, 랭킹 API 구현
-- DevOps 관점에서 배포용 브랜치는 main 으로, 개발용 브랜치는 dev 로 구분하여
-  안정성이 검증된 버전과 개발 및 버그 수정이 필요한 버전을 명확하게 구분하여 브랜치 전략 개선
+- OAuth2 를 활용한 네이버, 깃허브 소셜 로그인 구현
+- REST API 구현
 - 네이버 클라우드, Docker 를 활용한 Spring Boot 애플리케이션 배포
-- Apache Web Server 에 SSL 인증서를 적용하여 HTTPS 통신 적용
+- DevOps 관점에서 Github 브랜치 전략 개선
+- HTTPS 통신 구현
 - JUnit 을 활용한 단위 테스트, 통합 테스트 수행
 ```
 #
