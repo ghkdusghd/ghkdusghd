@@ -2,8 +2,10 @@
 
 ### Contact
 
-✉️ <a href="mailto:yeonguo95@gmail.com">Email</a>
+✉️ yeonguo95@gmail.com
 
 ✏️ <a href="https://ghkdusghd.github.io/" target="_blank">Blog</a>
 
 📦 <a href="https://github.com/ghkdusghd" target="_blank">Github</a>
+
+<br>
