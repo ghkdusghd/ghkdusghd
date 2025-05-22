@@ -10,7 +10,7 @@
 </div>
 
 
-# Web Backend Developer 🙌🏻
+# Hi 🙌🏻 I'm Hwayeon 🤓
 </div>
 
 ### EXPERIENCE
@@ -24,8 +24,8 @@
 ### PROJECTS
 
 > #### NCBT : 네이버 클라우드 플랫폼 자격증 시험 CBT 모의고사 사이트
-##### Github (FE) : https://github.com/Kimsu10/NCBT-FRONT
-##### Github (BE) : https://github.com/Kimsu10/NCBT-BACK
+##### Github (FE) : https://github.com/ghkdusghd/NCBT-FRONT
+##### Github (BE) : https://github.com/ghkdusghd/NCBT-BACK
 
 ##### 담당 역할
 ``` markdown
