@@ -25,5 +25,6 @@
 
 ---------
 ### 📫 How to reach me
-- Portfolio (notion) : https://shell-william-abb.notion.site/Full-Stack-Developer-1f1227c27d6280408bf5eb1ba204f5fc
 - email : yeonguo95@gmail.com
+- blog : https://ghkdusghd.github.io
+- Portfolio (notion) : https://shell-william-abb.notion.site/Full-Stack-Developer-1f1227c27d6280408bf5eb1ba204f5fc
