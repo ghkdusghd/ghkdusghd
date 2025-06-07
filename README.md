@@ -5,7 +5,7 @@
 <div align="left">
 <img src="https://img.shields.io/badge/java-FF6666?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-FFB266?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/css-FFFF66?style=for-the-badge&logo=css&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/css-FFFF66?style=for-the-badge&logo=css&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Springboot-66FF66?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
